@@ -1,12 +1,14 @@
 import React from "react";
 import {Routes, Route} from "react-router-dom"
+import Biodata from "./pages/Biodata";
+import Home from "./pages/Home";
 
 export default function App(){
 
   return(
     <Routes>
-      <Route path="/" element={<h1>Home Screen</h1>} />
-      <Route path="/biodata" element={<h1>Biodata Screen</h1>} />
+      <Route path="/" element={<Home />} />
+      <Route path="/biodata" element={<Biodata />} />
     </Routes>
   )
 }

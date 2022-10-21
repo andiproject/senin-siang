@@ -10,6 +10,10 @@
 
 ## selesai di Home.jsx
 
+![image](https://user-images.githubusercontent.com/78794419/197130117-76d16ab9-faed-4112-a3cf-741b98448b88.png)
+
+## membuat header di Biodata.jsx
+
 #### Resource :
 https://www.showwcase.com/show/17782/portofolio-app-latihan
 
